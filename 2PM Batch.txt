@@ -1,0 +1,59 @@
+INTRODUCTION TO AWS CLOUD Technology
+
+Computer vs server.
+physical machine vs virtual machine
+What is virtualization? Types of Hypervisors & Examples?
+what is cloud Technology? what is AWS ?
+AWS ACCOUNT Creation
+Cloud Services and Deployment Models
+Understanding AWS regions and Availability zones
+
+EBS Volumes:
+===========
+create EBs volumes 
+Attach and detach the ebs volumes to an instance?
+change the volume type?
+change the size of the volume?
+How to do encryption?
+How to take the backup of an ebs volume?[Snapshot]
+How to migrate an ebs volume from one region to the another region?
+How to extend the volume in server level.
+How to launch an instance from a snapshot?
+
+Ec2:
+====
+How to connect from one Instance to another instance?
+How to create an instance with Linux operating system?
+How to create an instance with windows operating system?
+How to connect to a virtual server via AWS console?
+How to convert .PEM format file to .PPK format file?
+How to connect to a virtual server via Mobaxterm/Putty?
+How to create a keypair? How to locate Public keys and private keys?
+How to connect into a virtual server without keypair?
+How to install Web Application Package on Ec2 Instance?
+How to replace Root Volume of an Instance?
+How to install web Application using "USERDATA" ?
+How to take the Backup[AMI] af an Instance?
+How to launch an instance from AMI created?
+How to change the instance Type?
+How to connect into the Linux instance from Local Windows CMD Prompt?
+How to check screenshot,Logs of an Instance without connecting into server?
+
+LOAD BLANCER:
+=============
+1)creating Classic Load Balancer and attaching the targeting instances
+2)Creating Application Load Balancer and attaching to target groups
+
+WEB Application DEPLOYMENTS:
+============================
+How to install HTTPD Package in an instance?
+How to deploy web Application package APACHE via USER DATA[Bash Script] ?
+REAL TIME "CSS HTML TEMPLATE JAVA " Deployed on an Instance and connected via LOCAL Machine?
+
+
+
+
+
+
+
+
